@@ -1,7 +1,7 @@
 # Scala_API_requests
 Testing some HTTP requests as well as some APIs with the Scala langage 
 
-#Usefil links :
+#Useful links :
 
 **The libraries :
 
